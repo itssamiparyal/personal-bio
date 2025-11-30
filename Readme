@@ -1,0 +1,53 @@
+Personal Bio Website
+
+This is a simple and responsive Personal Bio Website built using HTML and CSS.  
+The project showcases my basic frontend skills and introduces who I am as an aspiring software developer.
+
+ Features
+
+- Clean and modern UI  
+- Smooth animations (slide-in, glow effects)  
+- Responsive layout with flexible sections  
+- Profile image section with rounded design  
+- About Me section with highlighted keywords  
+- Experience counters  
+- Footer with social media icons  
+- Fully styled using custom CSS  
+- Font Awesome icons integrated
+
+Technologies Used
+- HTML5  
+- CSS3 
+- Font Awesome Icons  
+
+ Folder Structure
+│── index.html
+│── style.css
+│── /images
+│ └── xav.png
+
+How to Run the Project
+1. Download or clone the repository:
+2. Open the folder.
+3. Double-click "index.html" to open it in your browser.
+
+That’s it!
+
+
+About the Developer
+Name: Samip Aryal  
+Aspiring Full-Stack Developer | CSIT Student  
+Passionate about web development, game development, and building interactive applications.
+
+
+Connect With Me
+
+- GitHub: https://github.com/itssamiparyal  
+- LinkedIn: https://www.linkedin.com/in/samip-aryal-18ab8a392/  
+- Instagram: https://www.instagram.com/its.samiparyal/
+
+
+Feel Free to Use or Improve  
+This project is open for learning, improvement, or inspiration.  
+If you like it, consider giving the repo a ⭐ on GitHub!
+
