@@ -1,0 +1,72 @@
+The Crimson Fork – Restaurant Menu Website
+
+A simple and elegant restaurant menu webpage built using HTML, CSS, and Font Awesome icons.
+This project displays a stylish two-column menu layout with smooth animations and a modern UI.
+
+Features
+- Responsive Layout
+- Split into eft and right column sections.
+- Menu categories: Starters, Main Courses, Sides, Desserts, Beverages.
+
+Custom Styling
+
+- Dark-blue header and footer.
+- Red accent color (`#e63946`) for prices and headings.
+- Clean background and readable fonts.
+
+ Animations
+
+- Left side slides in from the left
+- Right side slides in from the right
+
+Hover Effects
+
+- Restaurant name grows and changes color on hover.
+- Icons increase size and change color when hovered.
+
+Font Awesome Icons
+
+Used for social media icons in the footer.
+
+
+
+Technologies Used
+
+| Technology       | Purpose                     |
+| ---------------- | --------------------------- |
+| **HTML5**        | Structure of the webpage    |
+| **CSS3**         | Styling, animations, layout |
+| **Font Awesome** | Icons for social media      |
+| **Flexbox**      | Aligning menu sections      |
+
+
+
+Project Structure
+
+📦 Restaurant Menu Project
+│
+├── index.html      # Main webpage
+├── style.css       # Stylesheet file
+└── README.md       # Documentation
+
+
+How to Run the Project
+
+1. Download or clone the project folder.
+2. Make sure both `index.html` and `style.css` are in the same directory.
+3. Open **index.html** in any modern web browser (Chrome, Edge, Firefox).
+
+That's it — the restaurant menu will load instantly!
+
+Customization
+
+You can easily modify:
+
+- Menu items
+- Colors
+- Animations
+- Restaurant name and tagline
+- Font styles
+
+Just edit the `index.html` and `style.css` files.
+
