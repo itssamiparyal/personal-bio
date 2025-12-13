@@ -1,0 +1,92 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+body{
+   background-color: hsl(0, 3%, 37%); 
+}
+header{
+    padding: 40px ;
+    background-color: hsl(0, 4%, 60%);
+    text-align: center;
+    color: white;
+    font-size: 20px;
+}
+
+.title h1:hover{
+    color: hsl(0, 100%, 33%);
+    font-size: 44px;  
+}
+
+main{
+    padding: 10px;
+}
+
+main h2{
+    color: white;
+    text-align: center;
+    font-size: 30px;
+    margin: 20px 0px;
+}
+
+main h2:hover{
+    color: hsl(0, 100%, 33%);
+    font-size: 35px;
+}
+
+.straw-hat-pirates img{
+    border-radius: 20px;
+    width: 200px;
+    height: 200px;
+    cursor: pointer;
+    object-fit: cover;
+    margin-top: 20px;
+}
+
+.straw-hat-pirates a{
+    text-decoration: none;
+}
+
+.straw-hat-pirates p {
+    color: white;
+    font-size: 20px;
+    text-align: center;
+    margin-top: 20px;
+   
+}
+
+.straw-hat-pirates img:hover{
+    transform: scale(1.1);
+}
+
+.straw-hat-pirates p:hover{
+    color: hsl(0, 100%, 33%);
+    font-size: 25px;
+}
+.crew-members{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 30px;
+    max-width: 900px;
+    margin: auto;
+}
+
+.companions{
+    display: flex;
+    justify-content: center;
+    max-width: 900px;
+    margin: auto;
+}
+
+.ships{
+    display: flex;
+    gap: 30px;
+    justify-content: center;
+    max-width: 900px;
+    margin: auto;
+}
+
